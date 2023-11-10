@@ -11,4 +11,10 @@ class TestController
     {
         dd('welcome! ');
     }
+
+    #[Route('/test2', name: 'app_test2')]
+    public function number2()
+    {
+        dd('welcome! ');
+    }
 }
