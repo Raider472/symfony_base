@@ -16,7 +16,7 @@
             $nomsOignons = [
                 "Oignon Rouge",
                 "Oignon italien",
-                "Oignon Normale",
+                "Oignon Normal",
             ];
      
             foreach ($nomsOignons as $key => $nomsOignon) {
